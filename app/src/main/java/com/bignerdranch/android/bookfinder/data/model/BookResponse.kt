@@ -1,7 +1,7 @@
 package com.bignerdranch.android.bookfinder.data.model
 
 data class BookResponse(
-    val item: List<BookItem>?
+    val items: List<BookItem>?
 )
 
 data class BookItem(
