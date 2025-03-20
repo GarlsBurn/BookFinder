@@ -3,6 +3,5 @@
 
     <item android:drawable="@drawable/active_search" android:state_checked="true"/>
     <item android:drawable="@drawable/not_active_search" android:state_checked="false"/>
-    <item android:drawable="@drawable/not_active_search" />
 
 </selector>
