@@ -3,7 +3,13 @@
 
     <item
         android:id="@+id/searchFragment"
-        android:icon=""
-        android:title="Поиск"
+        android:icon="@drawable/search_icon_selector"
+        android:title="@string/search"
+        />
+
+    <item
+        android:id="@+id/favoriteFragment"
+        android:icon="@drawable/heart_icon_selector"
+        android:title="@string/favorite"
         />
 </menu>

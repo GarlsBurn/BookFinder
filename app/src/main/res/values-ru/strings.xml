@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Поиск книг</string>
+    <string name="search">Поиск</string>
+    <string name="favorite">Избранное</string>
+    <string name="search_book">Поиск книги</string>
+</resources>
